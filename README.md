@@ -40,8 +40,7 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
 
 - [LinkedIn](https://www.linkedin.com/in/stanley-carvalho-a1740829b/) 
 - stanley.2010.lost@gmail.com
-## 🚀 Meu Portfólio
-[![Portfólio](https://stanleycarvalho.github.io/portifolio/)
+- [LinkedIn](https://stanleycarvalho.github.io/portifolio/)
 
 
 <div style="display: inline_block"><br>
