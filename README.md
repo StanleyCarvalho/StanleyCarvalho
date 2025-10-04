@@ -56,18 +56,20 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
   
   ##
  
-<div> 
+<div style="display: flex; gap: 10px;">
+
   <a href="mailto:stanley.2010.lost@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
+
   <a href="https://www.linkedin.com/in/stanley-carvalho-a1740829b/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  
-  <a href="https://stanleycarvalho.github.io/portifolio/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Portfólio Front-end-%23000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
+  <a href="https://stanleycarvalho.github.io/portifolio/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+  </a>
+
 </div>
 
 <picture align="center">
