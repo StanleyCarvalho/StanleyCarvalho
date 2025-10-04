@@ -67,7 +67,7 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
   </a>
 
   <a href="https://stanleycarvalho.github.io/portifolio/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio Front-end">
   </a>
 
 </div>
