@@ -57,13 +57,15 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
   ##
  
 <div> 
-  <a href = "mailto:stanley.2010.lost@gmail.com" target="_blank">
+  <a href="mailto:stanley.2010.lost@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
   
-  <a href="https://www.linkedin.com/in/stanley-carvalho-a1740829b/" target="_blank">
+  <a href="https://www.linkedin.com/in/stanley-carvalho-a1740829b/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   
-  <a href="https://stanleycarvalho.github.io/portifolio/" target="_blank">
+  <a href="https://stanleycarvalho.github.io/portifolio/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Portfólio Front-end-%23000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
