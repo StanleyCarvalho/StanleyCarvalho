@@ -53,6 +53,7 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
   <img align="center" alt="Stanley-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Stanley-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Stanley-Postgresql" height="30" width="40" src="https://img.icons8.com/parakeet/48/php.png">
+  <img align="center" alt="Stanley-Postgresql" height="30" width="40" src="https://img.icons8.com/3d-fluency/94/python.png">
 </div>
   
   ##
