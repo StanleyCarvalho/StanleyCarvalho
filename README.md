@@ -82,7 +82,7 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
  
 <div style="display: flex; gap: 10px;">
 
-  <a href="mailto:stanley.2010.lost@gmail.com" target="_blank" style="text-decoration:none;">
+  <a href="mailto:stanley.2010.lord@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
