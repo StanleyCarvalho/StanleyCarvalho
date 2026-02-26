@@ -6,31 +6,53 @@ Sou um profissional experiente de **Tecnologia da Informação**, apaixonado por
 
 Atualmente, atuo como **Chefe da Subseção de Tecnologia da Informação**, com foco em soluções inovadoras, integração de sistemas e melhoria contínua de processos. Lidero e coordeno iniciativas tecnológicas que suportam a tomada de decisões estratégicas e a transformação digital no Exército Brasileiro.
 
-## 🛠️ Principais Projetos & Expertise
+🛠️ Principais Projetos & Expertise
 
-- 🔧 **Desenvolvimento OutSystems**:  
-  - Desenvolvi uma API nacional em OutSystems para controle de todos os *PNRs* (Próprios Nacionais Residenciais) do Brasil.  
-  - Utilizei lógica de negócios, variáveis, agregações (aggregates) e Bootstrap para criar uma solução centralizada, responsiva e integrada aos sistemas do Exército Brasileiro.  
-  - Domínio da plataforma OutSystems para desenvolvimento ágil de aplicações empresariais de alta performance e integração com sistemas legados e APIs.
+- 📦 Desenvolvimento PHP com Laravel:
+    - Desenvolvi aplicações robustas e escaláveis utilizando o framework Laravel, seguindo as melhores práticas de desenvolvimento.
+    - Utilizei containers Docker para garantir a consistência e isolamento das aplicações, facilitando o deploy e a manutenção.
+    - Gerenciamento de dependências com Composer, garantindo a atualização e segurança das bibliotecas utilizadas.
+    - Implementação de APIs RESTful e integração com serviços externos, respeitando os padrões de arquitetura e segurança.
 
-- ☕ **Desenvolvimento Java**:  
-  - Manutenção e melhoria do sistema *SIGPIMA*, responsável pela gestão dos imóveis do Exército.  
-  - Utilização de **Spring**, **Hibernate** e integração de APIs para arquitetura robusta.  
-  - Administração de bancos de dados **MySQL**, **PostgreSQL** e **Oracle**, com domínio em SQL avançado, segurança, backup e recuperação de dados.
+- ☕ Desenvolvimento Java com Spring Boot:
+    - Desenvolvi aplicações robustas e escaláveis utilizando Spring Boot, com foco em microserviços e arquitetura de serviços.
+    - Utilizei Spring Data JPA para interação com bancos de dados, Spring Security para autenticação e autorização, e Spring Cloud para gerenciamento de serviços.
+    - Implementação de APIs RESTful e integração com serviços externos, utilizando OAuth2 e JWT para segurança.
+    - Desenvolvimento de aplicações web com Angular, utilizando TypeScript, HTML5, CSS3 e Bootstrap para criar interfaces de usuário responsivas e interativas.
 
-- 📊 **Business Intelligence & Análise de Dados**:  
-  - Desenvolvimento de dashboards e relatórios analíticos utilizando **Power BI**, **Report Builder** e **SSRS**.  
-  - Integração de dados dos sistemas **SIGPIMA**, **OPUS** e **SPIUNET**.  
-  - Criação de dashboards interativos e relatórios paginados para a Diretoria de Patrimônio Imobiliário e Meio Ambiente do Exército, incluindo relatórios para o Tribunal de Contas da União (TCU).  
-  - Experiência em processos de **ETL** e aplicação de técnicas analíticas para suporte à tomada de decisão.
+- 🔧 OutSystems:
+    - Desenvolvi uma API nacional em OutSystems para controle de todos os PNRs (Próprios Nacionais Residenciais) do Brasil.
+    - Utilizei lógica de negócios, variáveis, agregações (aggregates) e Bootstrap para criar uma solução centralizada, responsiva e integrada aos sistemas do Exército Brasileiro.
+    - Domínio da plataforma OutSystems para desenvolvimento ágil de aplicações empresariais de alta performance e integração com sistemas legados e APIs.
 
-## 🚀 Habilidades Técnicas
+- 📊 Business Intelligence & Análise de Dados:
+    - Desenvolvimento de dashboards e relatórios analíticos utilizando Power BI, Report Builder e SSRS.
+    - Integração de dados dos sistemas SIGPIMA, OPUS e SPIUNET.
+    - Criação de dashboards interativos e relatórios paginados para a Diretoria de Patrimônio Imobiliário e Meio Ambiente do Exército, incluindo relatórios para o Tribunal de Contas da União (TCU).
+    - Experiência em processos de ETL e aplicação de técnicas analíticas para suporte à tomada de decisão.
 
-- **Linguagens e Plataformas**: Java, PHP, OutSystems  
-- **Bancos de Dados**: SQL Server, MySQL, PostgreSQL, Oracle  
-- **BI & Ferramentas de Dados**: Power BI, SSRS, Report Builder, ETL  
-- **Frameworks e Ferramentas**: Spring, Hibernate, Git, Postman, Visual Studio, OutSystems Service Studio  
-- **Integrações**: APIs RESTful e SOAP  
+- 🗄️ Administrador de Banco de Dados:
+    - Experiência em administração de bancos de dados MySQL, PostgreSQL e Oracle.
+    - Conhecimento em:
+    - MySQL: replicação, clustering, backup e recuperação.
+    - PostgreSQL: replicação, backup, recuperação, particionamento e otimização de consultas.
+    - Oracle: administração, backup, recuperação, RAC e Data Guard.
+
+- 💻 Administração de Máquinas Virtuais via SSH:
+    - Experiência em administração de máquinas virtuais em ambientes Linux e Windows, utilizando SSH para gerenciamento remoto.
+    - Conhecimento em:
+    - Linux: gerenciamento de pacotes, configuração de rede, firewall e segurança.
+    - Windows: gerenciamento de serviços, configuração de rede e segurança.
+    - SSH: configuração de chaves, autenticação e tunelamento.
+    - Ferramentas: PuTTY, OpenSSH, WinSCP, FileZilla.
+    - Experiência em automação de tarefas utilizando scripts em Bash e PowerShell.
+
+- 🚀 Habilidades Técnicas- Linguagens e Plataformas: PHP, Java, OutSystems
+   - Bancos de Dados: MySQL, PostgreSQL, Oracle, SQL Server
+   - BI & Ferramentas de Dados: Power BI, SSRS, Report Builder, ETL
+   - Frameworks e Ferramentas: Laravel, Spring Boot, Angular, Docker, Composer, Git, Postman, Visual Studio, OutSystems Service Studio
+   - Integrações: APIs RESTful e SOAP, OAuth2, JWT
+   - Metodologias: Scrum, Kanban, TDD, BDD, CI/CD
 
 ## 📚 Aprendizado Contínuo
 
