@@ -61,7 +61,7 @@ Sou dedicado ao desenvolvimento profissional contínuo, buscando sempre novas te
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/stanley-carvalho-a1740829b/) 
-- stanley.2010.lost@gmail.com
+- stanley.2010.lord@gmail.com
 
 
 <div style="display: inline_block"><br>
