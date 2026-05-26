@@ -1,10 +1,11 @@
 # 👋 Olá! Eu sou Stanley
 
-Sou um profissional experiente de **Tecnologia da Informação**, apaixonado por desenvolver soluções inovadoras que agregam valor e transformam processos nas organizações.
+Full Stack Developer | Node/React | SQL/NoSQL
+Construo aplicações completas, da modelagem do banco ao deploy. Experiência em otimizar fluxos internos e automatizar processos que reduzem custo e aumentam eficiência operacional.
 
 ## 💼 Cargo Atual
 
-Atualmente, atuo como **Chefe da Subseção de Tecnologia da Informação**, com foco em soluções inovadoras, integração de sistemas e melhoria contínua de processos. Lidero e coordeno iniciativas tecnológicas que suportam a tomada de decisões estratégicas e a transformação digital no Exército Brasileiro.
+Desenvolvedor Full Stack Sênior, Analista e Desenvolvedor BI e Chefe da Subseção de TI no Exército Brasileiro, liderando iniciativas de modernização tecnológica, integração de sistemas e governança de TI, com foco em arquitetura escalável, alta disponibilidade e otimização contínua de processos críticos. 
 
 🛠️ Principais Projetos & Expertise
 
