@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou Stanley
 
-Full Stack Developer | Node/React | SQL/NoSQL
-Construo aplicações completas, da modelagem do banco ao deploy. Experiência em otimizar fluxos internos e automatizar processos que reduzem custo e aumentam eficiência operacional.
+Full Stack Developer construo aplicações completas, da modelagem do banco ao deploy. Experiência em otimizar fluxos internos e automatizar processos que reduzem custo e aumentam eficiência operacional.
 
 ## 💼 Cargo Atual
 
